@@ -1,0 +1,228 @@
+
+Summary Aggregator: 
+                            Request  Offer  Order  Deviation  Baseline  Commitment  Realised  Price_down  Price_up  COSTS_Offer  COSTS_ORDER  COSTS_Deviation  REVENUES  COSTS_Order
+Time                Period                                                                                                                                                          
+2018-07-04 00:00:00 1       1.04      NaN    NaN   NaN          0.00      NaN        0.00    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       3.76     3.76    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     33.84       NaN           NaN               0.00       NaN      
+                    3       2.32     2.32    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     20.88       NaN           NaN               0.00       NaN      
+2018-07-04 01:00:00 1       3.76     3.76   3.76   NaN          0.00     3.76        3.76    -100.0       100.0     33.84       NaN           0.0               3.76     33.84      
+                    2       2.32     2.32    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     20.88       NaN           NaN               0.00       NaN      
+                    3       2.57     2.57    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     23.13       NaN           NaN               0.00       NaN      
+2018-07-04 02:00:00 1       2.32     2.32   2.32   NaN          0.00     2.32        2.32    -100.0       100.0     20.88       NaN           0.0              13.92     20.88      
+                    2       2.57     2.57    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     23.13       NaN           NaN               0.00       NaN      
+                    3       3.43     3.43    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     30.87       NaN           NaN               0.00       NaN      
+2018-07-04 03:00:00 1       2.57     2.57   2.57   NaN          0.00     2.57        2.57    -100.0       100.0     23.13       NaN           0.0               7.71     23.13      
+                    2       3.43     3.43    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     30.87       NaN           NaN               0.00       NaN      
+                    3       2.55     2.55    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     22.95       NaN           NaN               0.00       NaN      
+2018-07-04 04:00:00 1       3.43     3.43   3.43   NaN          0.00     3.43        3.43    -100.0       100.0     30.87       NaN           0.0              10.29     30.87      
+                    2       2.55     2.55    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     22.95       NaN           NaN               0.00       NaN      
+                    3       2.03     2.03    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     18.27       NaN           NaN               0.00       NaN      
+2018-07-04 05:00:00 1       2.55     2.55   2.55   NaN          0.00     2.55        2.55    -100.0       100.0     22.95       NaN           0.0               7.65     22.95      
+                    2       2.03     2.03    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     18.27       NaN           NaN               0.00       NaN      
+                    3       4.27     4.27    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     38.43       NaN           NaN               0.00       NaN      
+2018-07-04 06:00:00 1       2.03     2.03   2.03   NaN          5.37     7.40        7.40    -100.0       100.0     18.27       NaN           0.0              16.24     18.27      
+                    2       4.27     4.27    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     38.43       NaN           NaN               0.00       NaN      
+                    3       3.84     3.84    NaN   NaN          0.00      NaN         NaN    -100.0       100.0     34.56       NaN           NaN               0.00       NaN      
+2018-07-04 07:00:00 1       4.27     2.03   2.03   NaN          9.97    12.00       12.00    -100.0       100.0     18.27       NaN           0.0               4.06     18.27      
+                    2       3.84     3.84   3.84   NaN          0.00      NaN         NaN    -100.0       100.0     34.56       NaN           NaN               7.68     34.56      
+                    3       2.11     2.11   2.11   NaN          0.00      NaN         NaN    -100.0       100.0     18.99       NaN           NaN               4.22     18.99      
+2018-07-04 08:00:00 1       0.00      NaN    NaN   0.0          3.84     3.84        3.84    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       0.00      NaN    NaN   NaN          2.11      NaN         NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       4.41     4.41    NaN   NaN          4.02      NaN         NaN    -100.0       100.0     39.69       NaN           NaN               0.00       NaN      
+2018-07-04 09:00:00 1       0.00      NaN    NaN   0.0          2.11     2.11        2.11    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       4.41      NaN    NaN   NaN         12.00      NaN         NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       0.00      NaN    NaN   NaN          4.02      NaN         NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+2018-07-04 10:00:00 1       4.41      NaN    NaN   NaN          4.02      NaN        4.02    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       0.00      NaN    NaN   NaN         12.00      NaN         NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       0.00      NaN    NaN   NaN          0.00      NaN         NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+2018-07-04 11:00:00 1       0.00      NaN    NaN   NaN         12.00      NaN       12.00       NaN         NaN       NaN       NaN           0.0                NaN       NaN      
+                    2       0.00      NaN    NaN   NaN          0.00      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN       -100.00      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 12:00:00 1       0.00      NaN    NaN   NaN          0.00      NaN        0.00       NaN         NaN       NaN       NaN           0.0                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN       -100.00      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN       -100.00      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 13:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 14:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 15:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 16:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 17:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 18:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 19:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 20:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 21:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 22:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-07-04 23:00:00 1        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN      NaN         NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+Summary FDP: 
+                           FDP                                                                                                     
+                           Request Offer Order Deviation Baseline Commitment Realised Price_down Price_up Market_prices COSTS_Order
+Time                Period                                                                                                         
+2018-07-04 00:00:00 1       1.04     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+                    2       3.76     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    1.0            0.00     
+                    3       2.32     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    6.0            0.00     
+2018-07-04 01:00:00 1       3.76    3.76  3.76 NaN          0.00     3.76    NaN      -100.0      100.0    1.0            3.76     
+                    2       2.32     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    6.0            0.00     
+                    3       2.57     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+2018-07-04 02:00:00 1       2.32    2.32  2.32 NaN          0.00     2.32    NaN      -100.0      100.0    6.0           13.92     
+                    2       2.57     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       3.43     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+2018-07-04 03:00:00 1       2.57    2.57  2.57 NaN          0.00     2.57    NaN      -100.0      100.0    3.0            7.71     
+                    2       3.43     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       2.55     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+2018-07-04 04:00:00 1       3.43    3.43  3.43 NaN          0.00     3.43    NaN      -100.0      100.0    3.0           10.29     
+                    2       2.55     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       2.03     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    8.0            0.00     
+2018-07-04 05:00:00 1       2.55    2.55  2.55 NaN          0.00     2.55    NaN      -100.0      100.0    3.0            7.65     
+                    2       2.03     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    8.0            0.00     
+                    3       4.27     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+2018-07-04 06:00:00 1       2.03    2.03  2.03 NaN          5.37     7.40    NaN      -100.0      100.0    8.0           16.24     
+                    2       4.27     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+                    3       3.84     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+2018-07-04 07:00:00 1       4.27    2.03  2.03 NaN          9.97    12.00    NaN      -100.0      100.0    2.0            4.06     
+                    2       3.84    3.84  3.84 NaN          0.00     3.84    NaN      -100.0      100.0    3.0            7.68     
+                    3       2.11    2.11  2.11 NaN          0.00     2.11    NaN      -100.0      100.0    3.0            4.22     
+2018-07-04 08:00:00 1       0.00     NaN   NaN NaN          3.84     3.84    NaN      -100.0      100.0    3.0            0.00     
+                    2       0.00     NaN   NaN NaN          2.11     2.11    NaN      -100.0      100.0    3.0            0.00     
+                    3       4.41     NaN   NaN NaN          4.02     4.02    NaN      -100.0      100.0    3.0            0.00     
+2018-07-04 09:00:00 1       0.00     NaN   NaN NaN          2.11     2.11    NaN      -100.0      100.0    3.0            0.00     
+                    2       4.41     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       0.00     NaN   NaN NaN          4.02     4.02    NaN      -100.0      100.0    1.0            0.00     
+2018-07-04 10:00:00 1       4.41     NaN   NaN NaN          4.02     4.02    NaN      -100.0      100.0    3.0            0.00     
+                    2       0.00     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    1.0            0.00     
+                    3       0.00     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    1.0            0.00     
+2018-07-04 11:00:00 1       0.00     NaN   NaN NaN         12.00    12.00    NaN         NaN        NaN    NaN             NaN     
+                    2       0.00     NaN   NaN NaN          0.00     0.00    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 12:00:00 1       0.00     NaN   NaN NaN          0.00     0.00    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 13:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 14:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 15:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 16:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 17:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 18:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 19:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 20:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 21:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 22:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-07-04 23:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+Summary EMS_1: 
+                           EMS_1                                                                                                                                                              
+                           Request Offer Order Deviation Baseline Flexprofile Commitment Storage_BL Storage_FLEX Realised COSTS_Deviation COSTS_Base_EC COSTS_Offer_EC COSTS_Offer COSTS_Order
+Time                Period                                                                                                                                                                    
+2018-07-04 00:00:00 1       1.04     NaN   NaN  NaN         0.00     0.00        NaN        0.00       0.00        0.00    NaN               0.00          0.00           NaN         NaN     
+                    2       3.76    3.76   NaN  NaN         0.00     3.76        NaN        0.00       3.76         NaN    NaN               0.00         22.56         33.84         NaN     
+                    3       2.32    2.32   NaN  NaN         0.00     2.32        NaN        0.00       2.32         NaN    NaN               0.00         13.92         20.88         NaN     
+2018-07-04 01:00:00 1       3.76    3.76  3.76  NaN         0.00     3.76       3.76        0.00       3.76        3.76    NaN               0.00         22.56         33.84       33.84     
+                    2       2.32    2.32   NaN  NaN         0.00     2.32        NaN        0.00       2.32         NaN    NaN               0.00         13.92         20.88         NaN     
+                    3       2.57    2.57   NaN  NaN         0.00     2.57        NaN        0.00       2.57         NaN    NaN               0.00         15.42         23.13         NaN     
+2018-07-04 02:00:00 1       2.32    2.32  2.32  NaN         0.00     2.32       2.32        0.00       2.32        2.32    NaN               0.00         13.92         20.88       20.88     
+                    2       2.57    2.57   NaN  NaN         0.00     2.57        NaN        0.00       2.57         NaN    NaN               0.00         15.42         23.13         NaN     
+                    3       3.43    3.43   NaN  NaN         0.00     3.43        NaN        0.00       3.43         NaN    NaN               0.00         20.58         30.87         NaN     
+2018-07-04 03:00:00 1       2.57    2.57  2.57  NaN         0.00     2.57       2.57        0.00       2.57        2.57    NaN               0.00         15.42         23.13       23.13     
+                    2       3.43    3.43   NaN  NaN         0.00     3.43        NaN        0.00       3.43         NaN    NaN               0.00         20.58         30.87         NaN     
+                    3       2.55    2.55   NaN  NaN         0.00     2.55        NaN        0.00       2.55         NaN    NaN               0.00         15.30         22.95         NaN     
+2018-07-04 04:00:00 1       3.43    3.43  3.43  NaN         0.00     3.43       3.43        0.00       3.43        3.43    NaN               0.00         20.58         30.87       30.87     
+                    2       2.55    2.55   NaN  NaN         0.00     2.55        NaN        0.00       2.55         NaN    NaN               0.00         15.30         22.95         NaN     
+                    3       2.03    2.03   NaN  NaN         0.00     2.03        NaN        0.00       2.03         NaN    NaN               0.00         12.18         18.27         NaN     
+2018-07-04 05:00:00 1       2.55    2.55  2.55  NaN         0.00     2.55       2.55        0.00       2.55        2.55    NaN               0.00         15.30         22.95       22.95     
+                    2       2.03    2.03   NaN  NaN         0.00     2.03        NaN        0.00       2.03         NaN    NaN               0.00         12.18         18.27         NaN     
+                    3       4.27    4.27   NaN  NaN         0.00     4.27        NaN        0.00       4.27         NaN    NaN               0.00         25.62         38.43         NaN     
+2018-07-04 06:00:00 1       2.03    2.03  2.03  NaN         5.37     7.40       7.40        5.37       7.40        7.40    NaN              32.22         44.40         18.27       18.27     
+                    2       4.27    4.27   NaN  NaN         0.00     4.27        NaN        0.00       4.27         NaN    NaN               0.00         25.62         38.43         NaN     
+                    3       3.84    3.84   NaN  NaN         0.00     3.84        NaN        0.00       3.84         NaN    NaN               0.00         23.04         34.56         NaN     
+2018-07-04 07:00:00 1       4.27    2.03  2.03  NaN         9.97    12.00      12.00        9.97      12.00       12.00    NaN              59.82         72.00         18.27       18.27     
+                    2       3.84    3.84  3.84  NaN         0.00     3.84        NaN        0.00       3.84         NaN    NaN               0.00         23.04         34.56       34.56     
+                    3       2.11    2.11  2.11  NaN         0.00     2.11        NaN        0.00       2.11         NaN    NaN               0.00         12.66         18.99       18.99     
+2018-07-04 08:00:00 1       0.00     NaN   NaN  0.0         3.84     3.84       3.84        3.84       3.84        3.84    0.0              23.04         23.04           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN         2.11     2.11        NaN        2.11       2.11         NaN    NaN              12.66         12.66           NaN         NaN     
+                    3       4.41    4.41   NaN  NaN         4.02     8.43        NaN        4.02       8.43         NaN    NaN              24.12         50.58         39.69         NaN     
+2018-07-04 09:00:00 1       0.00     NaN   NaN  0.0         2.11     2.11       2.11        2.11       2.11        2.11    0.0              12.66         12.66           NaN         NaN     
+                    2       4.41     NaN   NaN  NaN        12.00    12.00        NaN       12.00      12.00         NaN    NaN              72.00         72.00           NaN         NaN     
+                    3       0.00     NaN   NaN  NaN         4.02     4.02        NaN        4.02       4.02         NaN    NaN              24.12         24.12           NaN         NaN     
+2018-07-04 10:00:00 1       4.41     NaN   NaN  NaN         4.02     4.02        NaN        4.02       4.02        4.02    NaN              24.12         24.12           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN        12.00    12.00        NaN       12.00      12.00         NaN    NaN              72.00         72.00           NaN         NaN     
+                    3       0.00     NaN   NaN  NaN         0.00     0.00        NaN        0.00       0.00         NaN    NaN               0.00          0.00           NaN         NaN     
+2018-07-04 11:00:00 1       0.00     NaN   NaN  NaN        12.00    12.00        NaN       12.00      12.00       12.00    NaN              72.00         72.00           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN         0.00     0.00        NaN        0.00       0.00         NaN    NaN               0.00          0.00           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN      -100.00  -100.00        NaN     -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+2018-07-04 12:00:00 1       0.00     NaN   NaN  NaN         0.00     0.00        NaN        0.00       0.00        0.00    NaN               0.00          0.00           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN      -100.00  -100.00        NaN     -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN      -100.00  -100.00        NaN     -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+2018-07-04 13:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 14:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 15:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 16:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 17:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 18:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 19:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 20:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 21:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 22:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-07-04 23:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN        NaN         NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     

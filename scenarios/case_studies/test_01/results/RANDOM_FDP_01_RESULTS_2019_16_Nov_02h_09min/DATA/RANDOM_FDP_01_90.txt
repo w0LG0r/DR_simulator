@@ -1,0 +1,228 @@
+
+Summary Aggregator: 
+                            Request  Offer  Order  Deviation  Baseline  Commitment  Realised  Price_down  Price_up  COSTS_Offer  COSTS_ORDER  COSTS_Deviation  REVENUES  COSTS_Order
+Time                Period                                                                                                                                                          
+2018-08-29 00:00:00 1       1.82      NaN    NaN   NaN          0.00     NaN         0.00    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       4.65     4.65    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     41.85       NaN           NaN               0.00       NaN      
+                    3       2.90     2.90    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     26.10       NaN           NaN               0.00       NaN      
+2018-08-29 01:00:00 1       4.65     4.65   4.65   NaN          0.00    4.65         4.65    -100.0       100.0     41.85       NaN           0.0               4.65     41.85      
+                    2       2.90     2.90   2.90   NaN          0.00     NaN          NaN    -100.0       100.0     26.10       NaN           NaN               2.90     26.10      
+                    3       1.76     1.76   1.76   NaN          0.00     NaN          NaN    -100.0       100.0     15.84       NaN           NaN               1.76     15.84      
+2018-08-29 02:00:00 1       0.00      NaN    NaN   0.0          2.90    2.90         2.90    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       0.00      NaN    NaN   NaN          1.76     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       4.31     4.31    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     38.79       NaN           NaN               0.00       NaN      
+2018-08-29 03:00:00 1       0.00      NaN    NaN   0.0          1.76    1.76         1.76    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       4.31     4.31    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     38.79       NaN           NaN               0.00       NaN      
+                    3       2.40     2.40    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     21.60       NaN           NaN               0.00       NaN      
+2018-08-29 04:00:00 1       4.31     4.31   4.31   NaN          0.00    4.31         4.31    -100.0       100.0     38.79       NaN           0.0               8.62     38.79      
+                    2       2.40     2.40    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     21.60       NaN           NaN               0.00       NaN      
+                    3       2.32     2.32    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     20.88       NaN           NaN               0.00       NaN      
+2018-08-29 05:00:00 1       2.40     2.40   2.40   NaN          0.00    2.40         2.40    -100.0       100.0     21.60       NaN           0.0               7.20     21.60      
+                    2       2.32     2.32    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     20.88       NaN           NaN               0.00       NaN      
+                    3       3.11     3.11    NaN   NaN          0.00     NaN          NaN    -100.0       100.0     27.99       NaN           NaN               0.00       NaN      
+2018-08-29 06:00:00 1       2.32     2.32   2.32   NaN          3.98    6.30         6.30    -100.0       100.0     20.88       NaN           0.0              13.92     20.88      
+                    2       3.11     3.11   3.11   NaN          0.00     NaN          NaN    -100.0       100.0     27.99       NaN           NaN              18.66     27.99      
+                    3       4.85     4.85   4.85   NaN          0.00     NaN          NaN    -100.0       100.0     43.65       NaN           NaN              29.10     43.65      
+2018-08-29 07:00:00 1       0.00      NaN    NaN   0.0          3.11    3.11         3.11    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       0.00      NaN    NaN   NaN          4.85     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       3.47     3.47    NaN   NaN          1.72     NaN          NaN    -100.0       100.0     31.23       NaN           NaN               0.00       NaN      
+2018-08-29 08:00:00 1       0.00      NaN    NaN   0.0          4.85    4.85         4.85    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       3.47      NaN    NaN   NaN         12.00     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       4.49     4.49    NaN   NaN          1.72     NaN          NaN    -100.0       100.0     40.41       NaN           NaN               0.00       NaN      
+2018-08-29 09:00:00 1       3.47      NaN    NaN   NaN         12.00     NaN        12.00    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       4.49      NaN    NaN   NaN         12.00     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       0.00      NaN    NaN   NaN          1.72     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+2018-08-29 10:00:00 1       4.49      NaN    NaN   NaN          1.72     NaN         1.72    -100.0       100.0       NaN       NaN           0.0               0.00       NaN      
+                    2       0.00      NaN    NaN   NaN         12.00     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+                    3       0.00      NaN    NaN   NaN          0.00     NaN          NaN    -100.0       100.0       NaN       NaN           NaN               0.00       NaN      
+2018-08-29 11:00:00 1       0.00      NaN    NaN   NaN         12.00     NaN        12.00       NaN         NaN       NaN       NaN           0.0                NaN       NaN      
+                    2       0.00      NaN    NaN   NaN          0.00     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN       -100.00     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 12:00:00 1       0.00      NaN    NaN   NaN          0.00     NaN         0.00       NaN         NaN       NaN       NaN           0.0                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN       -100.00     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN       -100.00     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 13:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 14:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 15:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 16:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 17:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 18:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 19:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 20:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 21:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 22:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+2018-08-29 23:00:00 1        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    2        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+                    3        NaN      NaN    NaN   NaN           NaN     NaN          NaN       NaN         NaN       NaN       NaN           NaN                NaN       NaN      
+Summary FDP: 
+                           FDP                                                                                                     
+                           Request Offer Order Deviation Baseline Commitment Realised Price_down Price_up Market_prices COSTS_Order
+Time                Period                                                                                                         
+2018-08-29 00:00:00 1       1.82     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+                    2       4.65     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    1.0            0.00     
+                    3       2.90     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    4.0            0.00     
+2018-08-29 01:00:00 1       4.65    4.65  4.65 NaN          0.00     4.65    NaN      -100.0      100.0    1.0            4.65     
+                    2       2.90    2.90  2.90 NaN          0.00     2.90    NaN      -100.0      100.0    4.0            2.90     
+                    3       1.76    1.76  1.76 NaN          0.00     1.76    NaN      -100.0      100.0    2.0            1.76     
+2018-08-29 02:00:00 1       0.00     NaN   NaN NaN          2.90     2.90    NaN      -100.0      100.0    4.0            0.00     
+                    2       0.00     NaN   NaN NaN          1.76     1.76    NaN      -100.0      100.0    2.0            0.00     
+                    3       4.31     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+2018-08-29 03:00:00 1       0.00     NaN   NaN NaN          1.76     1.76    NaN      -100.0      100.0    2.0            0.00     
+                    2       4.31     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    2.0            0.00     
+                    3       2.40     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+2018-08-29 04:00:00 1       4.31    4.31  4.31 NaN          0.00     4.31    NaN      -100.0      100.0    2.0            8.62     
+                    2       2.40     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       2.32     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    6.0            0.00     
+2018-08-29 05:00:00 1       2.40    2.40  2.40 NaN          0.00     2.40    NaN      -100.0      100.0    3.0            7.20     
+                    2       2.32     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    6.0            0.00     
+                    3       3.11     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    1.0            0.00     
+2018-08-29 06:00:00 1       2.32    2.32  2.32 NaN          3.98     6.30    NaN      -100.0      100.0    6.0           13.92     
+                    2       3.11    3.11  3.11 NaN          0.00     3.11    NaN      -100.0      100.0    1.0           18.66     
+                    3       4.85    4.85  4.85 NaN          0.00     4.85    NaN      -100.0      100.0    2.0           29.10     
+2018-08-29 07:00:00 1       0.00     NaN   NaN NaN          3.11     3.11    NaN      -100.0      100.0    1.0            0.00     
+                    2       0.00     NaN   NaN NaN          4.85     4.85    NaN      -100.0      100.0    2.0            0.00     
+                    3       3.47     NaN   NaN NaN          1.72     1.72    NaN      -100.0      100.0    3.0            0.00     
+2018-08-29 08:00:00 1       0.00     NaN   NaN NaN          4.85     4.85    NaN      -100.0      100.0    2.0            0.00     
+                    2       3.47     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       4.49     NaN   NaN NaN          1.72     1.72    NaN      -100.0      100.0    3.0            0.00     
+2018-08-29 09:00:00 1       3.47     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    3.0            0.00     
+                    2       4.49     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    3.0            0.00     
+                    3       0.00     NaN   NaN NaN          1.72     1.72    NaN      -100.0      100.0    1.0            0.00     
+2018-08-29 10:00:00 1       4.49     NaN   NaN NaN          1.72     1.72    NaN      -100.0      100.0    3.0            0.00     
+                    2       0.00     NaN   NaN NaN         12.00    12.00    NaN      -100.0      100.0    1.0            0.00     
+                    3       0.00     NaN   NaN NaN          0.00     0.00    NaN      -100.0      100.0    1.0            0.00     
+2018-08-29 11:00:00 1       0.00     NaN   NaN NaN         12.00    12.00    NaN         NaN        NaN    NaN             NaN     
+                    2       0.00     NaN   NaN NaN          0.00     0.00    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 12:00:00 1       0.00     NaN   NaN NaN          0.00     0.00    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN       -100.00  -100.00    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 13:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 14:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 15:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 16:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 17:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 18:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 19:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 20:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 21:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 22:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+2018-08-29 23:00:00 1        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    2        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+                    3        NaN     NaN   NaN NaN           NaN      NaN    NaN         NaN        NaN    NaN             NaN     
+Summary EMS_1: 
+                           EMS_1                                                                                                                                                              
+                           Request Offer Order Deviation Baseline Flexprofile Commitment Storage_BL Storage_FLEX Realised COSTS_Deviation COSTS_Base_EC COSTS_Offer_EC COSTS_Offer COSTS_Order
+Time                Period                                                                                                                                                                    
+2018-08-29 00:00:00 1       1.82     NaN   NaN  NaN         0.00     0.00       NaN         0.00       0.00        0.00    NaN               0.00          0.00           NaN         NaN     
+                    2       4.65    4.65   NaN  NaN         0.00     4.65       NaN         0.00       4.65         NaN    NaN               0.00         27.90         41.85         NaN     
+                    3       2.90    2.90   NaN  NaN         0.00     2.90       NaN         0.00       2.90         NaN    NaN               0.00         17.40         26.10         NaN     
+2018-08-29 01:00:00 1       4.65    4.65  4.65  NaN         0.00     4.65      4.65         0.00       4.65        4.65    NaN               0.00         27.90         41.85       41.85     
+                    2       2.90    2.90  2.90  NaN         0.00     2.90       NaN         0.00       2.90         NaN    NaN               0.00         17.40         26.10       26.10     
+                    3       1.76    1.76  1.76  NaN         0.00     1.76       NaN         0.00       1.76         NaN    NaN               0.00         10.56         15.84       15.84     
+2018-08-29 02:00:00 1       0.00     NaN   NaN  0.0         2.90     2.90      2.90         2.90       2.90        2.90    0.0              17.40         17.40           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN         1.76     1.76       NaN         1.76       1.76         NaN    NaN              10.56         10.56           NaN         NaN     
+                    3       4.31    4.31   NaN  NaN         0.00     4.31       NaN         0.00       4.31         NaN    NaN               0.00         25.86         38.79         NaN     
+2018-08-29 03:00:00 1       0.00     NaN   NaN  0.0         1.76     1.76      1.76         1.76       1.76        1.76    0.0              10.56         10.56           NaN         NaN     
+                    2       4.31    4.31   NaN  NaN         0.00     4.31       NaN         0.00       4.31         NaN    NaN               0.00         25.86         38.79         NaN     
+                    3       2.40    2.40   NaN  NaN         0.00     2.40       NaN         0.00       2.40         NaN    NaN               0.00         14.40         21.60         NaN     
+2018-08-29 04:00:00 1       4.31    4.31  4.31  NaN         0.00     4.31      4.31         0.00       4.31        4.31    NaN               0.00         25.86         38.79       38.79     
+                    2       2.40    2.40   NaN  NaN         0.00     2.40       NaN         0.00       2.40         NaN    NaN               0.00         14.40         21.60         NaN     
+                    3       2.32    2.32   NaN  NaN         0.00     2.32       NaN         0.00       2.32         NaN    NaN               0.00         13.92         20.88         NaN     
+2018-08-29 05:00:00 1       2.40    2.40  2.40  NaN         0.00     2.40      2.40         0.00       2.40        2.40    NaN               0.00         14.40         21.60       21.60     
+                    2       2.32    2.32   NaN  NaN         0.00     2.32       NaN         0.00       2.32         NaN    NaN               0.00         13.92         20.88         NaN     
+                    3       3.11    3.11   NaN  NaN         0.00     3.11       NaN         0.00       3.11         NaN    NaN               0.00         18.66         27.99         NaN     
+2018-08-29 06:00:00 1       2.32    2.32  2.32  NaN         3.98     6.30      6.30         3.98       6.30        6.30    NaN              23.88         37.80         20.88       20.88     
+                    2       3.11    3.11  3.11  NaN         0.00     3.11       NaN         0.00       3.11         NaN    NaN               0.00         18.66         27.99       27.99     
+                    3       4.85    4.85  4.85  NaN         0.00     4.85       NaN         0.00       4.85         NaN    NaN               0.00         29.10         43.65       43.65     
+2018-08-29 07:00:00 1       0.00     NaN   NaN  0.0         3.11     3.11      3.11         3.11       3.11        3.11    0.0              18.66         18.66           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN         4.85     4.85       NaN         4.85       4.85         NaN    NaN              29.10         29.10           NaN         NaN     
+                    3       3.47    3.47   NaN  NaN         1.72     5.19       NaN         1.72       5.19         NaN    NaN              10.32         31.14         31.23         NaN     
+2018-08-29 08:00:00 1       0.00     NaN   NaN  0.0         4.85     4.85      4.85         4.85       4.85        4.85    0.0              29.10         29.10           NaN         NaN     
+                    2       3.47     NaN   NaN  NaN        12.00    12.00       NaN        12.00      12.00         NaN    NaN              72.00         72.00           NaN         NaN     
+                    3       4.49    4.49   NaN  NaN         1.72     6.21       NaN         1.72       6.21         NaN    NaN              10.32         37.26         40.41         NaN     
+2018-08-29 09:00:00 1       3.47     NaN   NaN  NaN        12.00    12.00       NaN        12.00      12.00       12.00    NaN              72.00         72.00           NaN         NaN     
+                    2       4.49     NaN   NaN  NaN        12.00    12.00       NaN        12.00      12.00         NaN    NaN              72.00         72.00           NaN         NaN     
+                    3       0.00     NaN   NaN  NaN         1.72     1.72       NaN         1.72       1.72         NaN    NaN              10.32         10.32           NaN         NaN     
+2018-08-29 10:00:00 1       4.49     NaN   NaN  NaN         1.72     1.72       NaN         1.72       1.72        1.72    NaN              10.32         10.32           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN        12.00    12.00       NaN        12.00      12.00         NaN    NaN              72.00         72.00           NaN         NaN     
+                    3       0.00     NaN   NaN  NaN         0.00     0.00       NaN         0.00       0.00         NaN    NaN               0.00          0.00           NaN         NaN     
+2018-08-29 11:00:00 1       0.00     NaN   NaN  NaN        12.00    12.00       NaN        12.00      12.00       12.00    NaN              72.00         72.00           NaN         NaN     
+                    2       0.00     NaN   NaN  NaN         0.00     0.00       NaN         0.00       0.00         NaN    NaN               0.00          0.00           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN      -100.00  -100.00       NaN      -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+2018-08-29 12:00:00 1       0.00     NaN   NaN  NaN         0.00     0.00       NaN         0.00       0.00        0.00    NaN               0.00          0.00           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN      -100.00  -100.00       NaN      -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN      -100.00  -100.00       NaN      -100.00    -100.00         NaN    NaN            -300.00       -300.00           NaN         NaN     
+2018-08-29 13:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 14:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 15:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 16:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 17:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 18:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 19:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 20:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 21:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 22:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+2018-08-29 23:00:00 1        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    2        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
+                    3        NaN     NaN   NaN  NaN          NaN      NaN       NaN          NaN        NaN         NaN    NaN                NaN           NaN           NaN         NaN     
